@@ -1,5 +1,5 @@
 # AI Layout Agent
-LIVE LINK = https://chat-based-layout-agent-two.vercel.app
+LIVE LINK = https://chat-based-layout-agent-two.vercel.app/
 
 AI Layout Agent is a chat-based design editing application that allows users to modify a structured layout JSON using natural language instructions. The application interprets commands such as moving elements, resizing components, and changing the canvas aspect ratio, then returns the updated JSON in real time.
 
